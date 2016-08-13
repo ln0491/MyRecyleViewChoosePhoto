@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyRecyleViewChoosePhoto</string>
+    <string name="msg_no_camera">没有找到相机</string>
+</resources>
